@@ -1,2 +1,2 @@
 # wpsmain
-main add
+main rep1 add
