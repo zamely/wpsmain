@@ -1,2 +1,2 @@
 # wpsmain
-zm add
+zm rep1 add
