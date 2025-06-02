@@ -1,2 +1,2 @@
 # wpsmain
-main add
+zm add
